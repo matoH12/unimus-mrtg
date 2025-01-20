@@ -102,3 +102,7 @@ Community=public
 
 ### Conclusion
 This system provides an automated solution for integrating Unimus devices with MRTG for network monitoring. It ensures ease of maintenance and scalability through a Dockerized architecture.
+
+EXAMPLLE: 
+![obrazek](https://github.com/user-attachments/assets/4a55fe1a-1011-43d3-9662-c1ae3d31d3e6)
+
